@@ -1,0 +1,3 @@
+RESTORE FILELISTONLY
+FROM DISK = 'C:\Backup\EmpresaDBA.bak';
+GO
