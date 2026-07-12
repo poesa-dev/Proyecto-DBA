@@ -1,0 +1,85 @@
+README para cada proyecto, puedes tener uno principal como este:
+# Actividad 4 – Desarrollo Backend con PHP
+
+## Descripción
+
+Esta actividad reúne los proyectos desarrollados durante el módulo de Desarrollo Backend con PHP. Cada carpeta contiene un proyecto independiente que demuestra diferentes conceptos y técnicas de programación del lado del servidor.
+
+## Contenido
+
+- BibliotecaWeb
+- Ejemplo1_Autos
+- Ejemplo2_CuentasAhorro
+- Procedimiento1_AutenticacionBasica
+- Procedimiento3_BoletaPago
+
+## Requisitos
+
+- Laragon o XAMPP.
+- PHP 8 o superior.
+- Navegador web.
+- Visual Studio Code (opcional para edición).
+
+## Instalación
+
+1. Clonar o descargar este repositorio.
+2. Copiar la carpeta del proyecto que se desea ejecutar dentro de:
+
+```
+C:\laragon\www
+```
+
+3. Iniciar Laragon.
+4. Abrir el navegador.
+
+## Ejecución
+
+### BibliotecaWeb
+
+```
+http://localhost/BibliotecaWeb/
+```
+
+### Ejemplo1_Autos
+
+```
+http://localhost/Ejemplo1_Autos/
+```
+
+### Ejemplo2_CuentasAhorro
+
+```
+http://localhost/Ejemplo2_CuentasAhorro/
+```
+
+### Procedimiento1_AutenticacionBasica
+
+```
+http://localhost/Procedimiento1_AutenticacionBasica/
+```
+
+### Procedimiento3_BoletaPago
+
+```
+http://localhost/Procedimiento3_BoletaPago/
+```
+
+## Tecnologías utilizadas
+
+- PHP
+- HTML5
+- CSS3
+- JavaScript
+- Laragon
+- Visual Studio Code
+
+## Autor
+
+Héctor Polanco Jiménez
+
+## Institución
+
+INFOTEP
+
+Proyecto desarrollado con fines académicos como parte del módulo de Desarrollo Backend con PHP.
+
